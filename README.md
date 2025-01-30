@@ -1,5 +1,15 @@
 ## Hello 👋, I'm Jaimin.
 
+🚀 I love building web applications and exploring tech. Currently focusing on:
+- 📁 File System Full Stack  
+- 🔍 Price Analysis extension Tool for different platforms.
+- 📄 PDF Tools for Document Automation
+
+## 🔧 Tech & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+
 <!--
 **J4Jaimin/J4Jaimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
