@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Code+%F0%9F%92%BB;Coffee+%E2%98%95;Repeat+%F0%9F%94%91" alt="Typing SVG" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=j4jaimin&color=blue)
+
 ---
 
 ### 🧑‍💻 About Me
